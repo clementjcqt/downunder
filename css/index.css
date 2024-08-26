@@ -9,7 +9,7 @@
 
 body {
 	text-align: center ;
-	background-image: url("clementjcat/downunder/main/Image/colorbckgrnd.jpeg");
+	background-image: url("/Image/colorbckgrnd.jpeg");
 	background-blend-mode: hard-light;
 	background-color: lightgray;
 	
@@ -17,7 +17,7 @@ body {
 
 
 .heading {
-	background-image: url("Image/header.JPG") ;
+	background-image: url("/Image/header.JPG") ;
 	color: rgb(37, 60, 66);
 	background-size: 100%;
 	width: 100%;
